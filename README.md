@@ -5,8 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfr33&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/C#-plain.svg">
-  <img align="center" alt="Igor-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/javascript-plain.svg">
+  <img align="center" alt="Igor-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/C#-plain.svg">
+  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/javascript-plain.svg">
  
 </div>
   
